@@ -6,7 +6,7 @@ STUDENT INFORMATION SYSTEMS AT USP
 
 <div style ="height =30px; width = 30px;">
 
-<img style = "display: inline-block;"
+<img style = "height =30px; width = 30px;"
 src="https://i.pinimg.com/originals/37/1d/1b/371d1bd86f60c06af7a19c0ddc5a1288.png"> 
   
 </div>
