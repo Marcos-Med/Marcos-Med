@@ -4,7 +4,7 @@ Hi 👋 My name is Marcos
 STUDENT INFORMATION SYSTEMS AT USP
 -----------------------------
 
-<img src="https://i.pinimg.com/originals/37/1d/1b/371d1bd86f60c06af7a19c0ddc5a1288.png" height = "140" width = "100" style = "margin-left: 45px;"> 
+<img src="https://i.pinimg.com/originals/37/1d/1b/371d1bd86f60c06af7a19c0ddc5a1288.png" height = "140" width = "100" align = "center"> 
   
 ### Skills
 
