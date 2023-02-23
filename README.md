@@ -4,7 +4,7 @@ Hi 👋 My name is Marcos
 STUDENT INFORMATION SYSTEMS AT USP
 -----------------------------
 <img
-src="[https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717](https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2017/03/usp-logo-transparente-800-400.png)" />
+src="https://i.pinimg.com/originals/37/1d/1b/371d1bd86f60c06af7a19c0ddc5a1288.png" />
 
 ### Skills
 
