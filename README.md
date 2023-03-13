@@ -24,6 +24,8 @@ STUDENT INFORMATION SYSTEMS AT USP
 
 </p>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Med&layout=compact&langs_count=7&theme=dark"/>
+
 ### Socials
 
 <p align="left">
