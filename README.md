@@ -1,5 +1,9 @@
 Hi 👋 My name is Marcos
 ==========================
+### ABOUT
+<p align = "justify">Estudante de Sistemas de Informação na Universidade de São Paulo (USP) e técnico em eletrônica pela ETEC Presidente Vargas. Durante o curso técnico, tive contato com a programação de microcontroladores, o qual me despertou o interesse em ingressar na área de tecnologia da informação. Almejo adquirir um conhecimento amplo sobre tecnologia e me tornar um profissional qualificado no segmento de desenvolvimento de software.</p>
+
+<p align = "justify">Information Systems student at the University of São Paulo (USP) and electronics technician at ETEC Presidente Vargas. During the technical course, i had contact with microcontroller programming, which aroused my interest in joining the information technology and become a qualified professional in the software development segment.</p>
 
 STUDENT INFORMATION SYSTEMS AT USP
 -----------------------------
