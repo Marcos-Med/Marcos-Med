@@ -15,3 +15,6 @@
 <p align="left">
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="38" height="38" /></a> <a href="https://www.linkedin.com/in/marcos-medeiros-250575210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="38" height="38" /></a> 
 </p>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcos-Med&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcos-Med&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcos-Med&theme=default)  |
+| :-: | :-: | :-: |
